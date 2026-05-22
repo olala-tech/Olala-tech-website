@@ -41,6 +41,16 @@
 
 ---
 
+## 🧑‍🎓MORE SERVICES OFFERED
+
+✅Website Design
+✅Portfolio Websites
+✅Business Websites
+✅HTML & CSS
+✅Bot deployment
+
+---
+
 ## ⚠️ DISCLAIMER
 
 - You modify this website at your own risk.  
