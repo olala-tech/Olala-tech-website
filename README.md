@@ -51,39 +51,9 @@
 
 ## ✨ FEATURES
 
-**OLALA TECH XMD** WhatsApp bot offers:
+**OLALA TECH XMD** Website offers:
 
-- ✅ Group Management (anti-delete, anti-call, welcome/goodbye)  
-- ✅ Media Commands (YouTube, TikTok, Instagram, Facebook downloaders)  
-- ✅ Fun & Entertainment (games, memes, quotes)  
-- ✅ OpenAI Integration (ChatGPT-like responses)  
-- ✅ Tools (auto bio, sticker maker, poll system, group inspect)
-
----
-
-## ⚙️ SET-UP GUIDE
-
-### 🔁 Fork This Repo
-
-<p align="center">
-<a href="https://github.com/olala-tech/OLALA-TECH-XMD/fork"><img src="https://img.shields.io/badge/Fork%20Repo-purple?style=for-the-badge&logo=github" alt="FORK OLALA TECH XMD"></a>
-</p>
-
-### 🔑 Generate Session
-
-<p align="center">
-<a href="https://olala-xmd-session-8fu1.onrender.com"><img height="37" title="Session" src="https://img.shields.io/badge/Generate%20Session-green?style=for-the-badge&logo=render"></a>
-</p>
-
-### 🚀 Deploy on Heroku
-
-<p align="center">
-  <a href="https://heroku.com/deploy?template=https://github.com/olala-tech/OLALA-TECH-XMD">
-    <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy to Heroku"/>
-  </a>
-</p>
-
-> Configure your **environment variables** correctly for the bot to function!
+- ✅ Well designed websites 
 
 ---
 
@@ -91,4 +61,4 @@
 
 [MIT License](https://github.com/olala-tech/OLALA-TEST/blob/main/LICENSE)
 
-> © 2025 OLALA MINI XMD | Made with ❤️ by [OLALA](https://github.com/olala-tech)
+> © 2025 OLALA WEB DESIGN | Made with ❤️ by [OLALA](https://github.com/olala-tech)
