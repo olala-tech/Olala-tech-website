@@ -36,22 +36,16 @@
 
 ---
 
-### 🔧 Built With:
-
-> This bot is created using **NodeJS** and uses the [Baileys](https://github.com/whiskeysockets/Baileys) WhatsApp Web API library.
-
----
-
 ## ⚠️ DISCLAIMER
 
-- You modify this bot at your own risk.  
+- You modify this website at your own risk.  
 - **Do not delete credits** — you may add yours next to the original author.
 
 ---
 
 ## ✨ FEATURES
 
-**OLALA TECH XMD** Website offers:
+**OLALA TECH WEBSITE** Website offers:
 
 - ✅ Well designed websites 
 
