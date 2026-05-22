@@ -35,6 +35,9 @@
 </p>
 
 ---
+## 🔎 MORE ABOUT DEVELOPER
+
+“I am a beginner web developer passionate about creating websites using HTML and GitHub Pages.”
 
 ## ⚠️ DISCLAIMER
 
