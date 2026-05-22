@@ -2,7 +2,7 @@
 
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=50&pause=1000&color=FF1493&center=true&width=910&height=100&lines=HELLO+THIS+IS+OLALA+WEBSITE;FIRST+WEBSITE;MADE+TO+HELP+USERS;KNOW+THE+PRICE+AND+GET+THE+BEST+WEBSITE+EVER alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=50&pause=1000&color=FF1493&center=true&width=910&height=100&lines=HELLO+THIS+IS+OLALA+WEBSITE;“WELCOME+TO+OLALA+WEB+DESIGN+I+CREATE+SIMPLE+AND+MODERN+WEBSITES.”+WEBSITE;MADE+TO+HELP+USERS;KNOW+THE+PRICE+AND+GET+THE+BEST+WEBSITE+EVER alt="Typing SVG" />
   </a>
 </div>
 
