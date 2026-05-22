@@ -1,4 +1,4 @@
-#  OLALA TECH XMD
+#  OLALA TECH WEB
 
 <div align="center">
   <a href="https://git.io/typing-svg">
@@ -11,7 +11,7 @@
 </p>
 
 <p align="center">
-  <a href="#"><img src="http://readme-typing-svg.herokuapp.com?color=ff69b4&center=true&vCenter=true&multiline=false&lines=OLALA+WEB+DESIGN" alt="">
+  <a href="#"><img src="http://readme-typing-svg.herokuapp.com?color=ff69b4&center=true&vCenter=true&multiline=false&lines=WELCOME+TO+OLALA+WEB+DESIGN +—+I+CREATE+SIMPLE+AND+MODERN+WEBSITES" alt="">
 </p>
 
 <p align="center">
