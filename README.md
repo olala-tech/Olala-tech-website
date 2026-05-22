@@ -39,6 +39,8 @@
 
 “I am a beginner web developer passionate about creating websites using HTML and GitHub Pages.”
 
+---
+
 ## ⚠️ DISCLAIMER
 
 - You modify this website at your own risk.  
