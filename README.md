@@ -1,4 +1,4 @@
-# 🌸 OLALA MINI XMD
+# 🌸 OLALA WEBSITE
 
 <div align="center">
   <a href="https://git.io/typing-svg">
