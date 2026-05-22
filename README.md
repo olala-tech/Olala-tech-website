@@ -1,8 +1,8 @@
-# 🌸 OLALA WEBSITE
+#  OLALA TECH XMD
 
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=50&pause=1000&color=FF1493&center=true&width=910&height=100&lines=HELLO+THIS+IS+OLALA+WEBSITE;“WELCOME+TO+OLALA+WEB+DESIGN+I+CREATE+SIMPLE+AND+MODERN+WEBSITES.”+WEBSITE;MADE+TO+HELP+USERS;KNOW+THE+PRICE+AND+GET+THE+BEST+WEBSITE+EVER alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=50&pause=1000&color=FF1493&center=true&width=910&height=100&lines=HELLO+WELCOME+TO+OLALA+WEB+DESIGN;MULTI+DEVICE+WHATSAPP+BOT;I+CREATE+SIMPLE+AND+MODERN+ WEBSITES" alt="Typing SVG" />
   </a>
 </div>
 
@@ -11,7 +11,7 @@
 </p>
 
 <p align="center">
-  <a href="#"><img src="http://readme-typing-svg.herokuapp.com?color=ff69b4&center=true&vCenter=true&multiline=false&lines=OLALA+WEBSITE" alt="">
+  <a href="#"><img src="http://readme-typing-svg.herokuapp.com?color=ff69b4&center=true&vCenter=true&multiline=false&lines=OLALA+WEB+DESIGN" alt="">
 </p>
 
 <p align="center">
@@ -30,7 +30,7 @@
 ## 📞 Contact Me
 
 <p align="center">
-<a href="https://api.whatsapp.com/send?phone=254101457182&text=Hello+OLALA+Dev%2C+I+need+help+with+OLALA+MINI+XMD"><img src="https://img.shields.io/badge/Contact-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+<a href="https://api.whatsapp.com/send?phone=254101457182&text=Hello+OLALA+Dev%2C+I+need+help+with+OLALA+TECH+XMD"><img src="https://img.shields.io/badge/Contact-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
 </a>
 </p>
 
@@ -48,3 +48,47 @@
 - **Do not delete credits** — you may add yours next to the original author.
 
 ---
+
+## ✨ FEATURES
+
+**OLALA TECH XMD** WhatsApp bot offers:
+
+- ✅ Group Management (anti-delete, anti-call, welcome/goodbye)  
+- ✅ Media Commands (YouTube, TikTok, Instagram, Facebook downloaders)  
+- ✅ Fun & Entertainment (games, memes, quotes)  
+- ✅ OpenAI Integration (ChatGPT-like responses)  
+- ✅ Tools (auto bio, sticker maker, poll system, group inspect)
+
+---
+
+## ⚙️ SET-UP GUIDE
+
+### 🔁 Fork This Repo
+
+<p align="center">
+<a href="https://github.com/olala-tech/OLALA-TECH-XMD/fork"><img src="https://img.shields.io/badge/Fork%20Repo-purple?style=for-the-badge&logo=github" alt="FORK OLALA TECH XMD"></a>
+</p>
+
+### 🔑 Generate Session
+
+<p align="center">
+<a href="https://olala-xmd-session-8fu1.onrender.com"><img height="37" title="Session" src="https://img.shields.io/badge/Generate%20Session-green?style=for-the-badge&logo=render"></a>
+</p>
+
+### 🚀 Deploy on Heroku
+
+<p align="center">
+  <a href="https://heroku.com/deploy?template=https://github.com/olala-tech/OLALA-TECH-XMD">
+    <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy to Heroku"/>
+  </a>
+</p>
+
+> Configure your **environment variables** correctly for the bot to function!
+
+---
+
+## 📜 LICENSE
+
+[MIT License](https://github.com/olala-tech/OLALA-TEST/blob/main/LICENSE)
+
+> © 2025 OLALA MINI XMD | Made with ❤️ by [OLALA](https://github.com/olala-tech)
