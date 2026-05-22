@@ -2,7 +2,7 @@
 
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=50&pause=1000&color=FF1493&center=true&width=910&height=100&lines=HELLO+THIS+IS+OLALA+MINI+XMD;MULTI+DEVICE+WHATSAPP+BOT;MADE+TO+HELP+WHATSAPP+USERS;STAR+AND+FORK+THE+REPO" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=50&pause=1000&color=FF1493&center=true&width=910&height=100&lines=HELLO+THIS+IS+OLALA+WEBSITE;FIRST+WEBSITE;MADE+TO+HELP+USERS;KNOW+THE+PRICE+AND+GET+THE+BEST+WEBSITE+EVER alt="Typing SVG" />
   </a>
 </div>
 
@@ -11,7 +11,7 @@
 </p>
 
 <p align="center">
-  <a href="#"><img src="http://readme-typing-svg.herokuapp.com?color=ff69b4&center=true&vCenter=true&multiline=false&lines=OLALA+MINI+XMD+WHATSAPP+BOT" alt="">
+  <a href="#"><img src="http://readme-typing-svg.herokuapp.com?color=ff69b4&center=true&vCenter=true&multiline=false&lines=OLALA+WEBSITE" alt="">
 </p>
 
 <p align="center">
