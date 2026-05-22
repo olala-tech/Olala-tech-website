@@ -11,7 +11,7 @@
 </p>
 
 <p align="center">
-  <a href="#"><img src="http://readme-typing-svg.herokuapp.com?color=ff69b4&center=true&vCenter=true&multiline=false&lines=WELCOME+TO+OLALA+WEB+DESIGN +—+I+CREATE+SIMPLE+AND+MODERN+WEBSITES" alt="">
+  <a href="#"><img src="http://readme-typing-svg.herokuapp.com?color=ff69b4&center=true&vCenter=true&multiline=false&lines=I+CREATE+SIMPLE+AND+MODERN+WEBSITES" alt="">
 </p>
 
 <p align="center">
