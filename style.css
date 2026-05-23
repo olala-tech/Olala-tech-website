@@ -1,0 +1,58 @@
+/* Container for the grid */
+.grid-container {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+    gap: 20px;
+    max-width: 900px;
+    margin: 40px auto;
+    padding: 0 20px;
+}
+
+/* Individual Package Cards */
+.price-card {
+    background-color: #1F2833; /* Dark slate-gray background for contrast */
+    border: 2px solid #006600; /* Safaricom Green outline */
+    border-radius: 12px;
+    padding: 25px;
+    transition: transform 0.3s ease;
+}
+
+/* Add a slight lifting effect when user hovers over a card */
+.price-card:hover {
+    transform: translateY(-5px);
+}
+
+.price-card h3 {
+    color: #FFFFFF;
+    font-size: 1.8rem;
+    margin: 0;
+}
+
+.validity {
+    color: #A9A9A9; /* Muted silver-gray text */
+    font-size: 0.9rem;
+    margin: 5px 0 20px 0;
+}
+
+.price {
+    color: #EE3540; /* Brand Red for the pricing figures */
+    font-size: 2rem;
+    font-weight: bold;
+    margin-bottom: 25px;
+}
+
+/* WhatsApp Action Button */
+.buy-btn {
+    display: inline-block;
+    background-color: #006600; /* Safaricom Green */
+    color: #FFFFFF;
+    text-decoration: none;
+    padding: 12px 25px;
+    border-radius: 25px;
+    font-weight: bold;
+    transition: background 0.2s ease;
+}
+
+.buy-btn:hover {
+    background-color: #004d00; /* Darker green on hover */
+}
